@@ -1,0 +1,116 @@
+[{
+		"code": "COMP",
+		"name": "Company Master",
+		"description": "General",
+		"status": 1
+	},
+	{
+		"code": "PROJ",
+		"name": "Project Master",
+		"description": "General",
+		"status": 1
+	},
+	{
+		"code": "ROLE",
+		"name": "Role Master",
+		"description": "Masters",
+		"status": 1
+	},
+	{
+		"code": "EMPL",
+		"name": "Employee Master",
+		"description": "General",
+		"status": 1
+	},
+	{
+		"code": "SPAR",
+		"name": "Spares",
+		"description": "Masters",
+		"status": 1
+	},
+	{
+		"code": "EXPL",
+		"name": "Explosives",
+		"description": "Masters",
+		"status": 1
+	},
+	{
+		"code": "WRKT",
+		"name": "Work Type",
+		"description": "Masters",
+		"status": 1
+	},
+	{
+		"code": "VEHI",
+		"name": "Vehicle",
+		"description": "Masters",
+		"status": 1
+	},
+	{
+		"code": "VEND",
+		"name": "Vendors",
+		"description": "Masters",
+		"status": 1
+	},
+	{
+		"code": "SPCO",
+		"name": "Spares Cost",
+		"description": "Costs",
+		"status": 1
+	},
+	{
+		"code": "EXCO",
+		"name": "Explosives Cost",
+		"description": "Costs",
+		"status": 1
+	},
+	{
+		"code": "VECO",
+		"name": "Vehicles Cost",
+		"description": "Costs",
+		"status": 1
+	},
+	{
+		"code": "ACCO",
+		"name": "Access Control",
+		"description": "General",
+		"status": 1
+	},
+	{
+		"code": "DRIL",
+		"name": "Drilling",
+		"description": "Production",
+		"status": 1
+	},
+	{
+		"code": "BLAS",
+		"name": "Blasting",
+		"description": "Production",
+		"status": 1
+	},
+	{
+		"code": "BREA",
+		"name": "Breaking",
+		"description": "Production",
+		"status": 1
+	},
+	{
+		"code": "LOAD",
+		"name": "Loading",
+		"description": "Production",
+		"status": 1
+	},
+	{
+		"code": "TRAN",
+		"name": "Transporting",
+		"description": "Production",
+		"status": 1
+	},
+	{
+		"code": "PROD",
+		"name": "Production",
+		"description": "Production",
+		"status": 1
+	}
+
+]

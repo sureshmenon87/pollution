@@ -1,0 +1,14 @@
+{
+    "name": "India",
+    "native": "भारत",
+    "phone": "91",
+    "continent": "AS",
+    "capital": "New Delhi",
+    "currency": "INR",
+    "languages": [
+        "hi",
+        "en"
+    ],
+    "emoji": "🇮🇳",
+    "emojiU": "U+1F1EE U+1F1F3"
+}

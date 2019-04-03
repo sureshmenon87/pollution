@@ -1,0 +1,14 @@
+[
+    {
+        "status": 1,
+        "roleName": "CEO"
+    },
+    {
+        "status": 1,
+        "roleName": "Manager"
+    },
+    {
+        "status": 1,
+        "roleName": "Supervisor"
+    }
+]
